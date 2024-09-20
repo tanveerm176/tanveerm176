@@ -6,7 +6,7 @@
 
 ### Here's some of the projects/technologies I've worked on:
   * [Investment Simulator App](https://github.com/tanveerm176/FICS-Compose) using Kotlin and Jetpack Compose
-  * [RAG Web App](https://syntaxsorcerer.vercel.app/) with TypeScript, React, NextJS, and Pinecone for a vector db
+  * [RAG AI Assistant for Debugging Help](https://syntaxsorcerer.vercel.app/) with TypeScript, React, NextJS, and Pinecone for a vector db
   * [ML Covid Data Analysis](https://github.com/tanveerm176/Covid-Subway-Analysis) with Tableau, Python, Numpy, and Sci-Kit Learn
   * [Deep Learning Image Classification model](https://github.com/tanveerm176/CNN_ImageClassification) with TensorFlow Keras
   * [Breast Cancer Research](https://github.com/tanveerm176/CancerResearch) with Python, PyMOL, AutoDock Vina, and Marvin Sketch
