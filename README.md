@@ -50,7 +50,6 @@
 &nbsp;&nbsp;
 [![COOP](./Icons/1630568244683.jpg)](https://www.linkedin.com/school/coopfellows/)
 &nbsp;
-<
 <img align="left" alt="Python" width="100px" src="./Icons/project_fibonacci_logo.jpg" style="padding-right:10px;" />
 
 
