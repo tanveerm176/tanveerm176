@@ -1,4 +1,4 @@
-<img align="left" alt="Film Photo" width="600px" height="300px" src="./Icons/16750010.jpg" style="padding-right:10px;" />
+<img align="left" alt="Film Photo" width="800px" height="300px" src="./Icons/16750010.jpg" style="padding-right:10px;" />
 <br />
 <br />
 <br />
@@ -16,8 +16,8 @@
 
 # Hi there, I'm Muhammad 👋 a recent CS grad from CUNY Hunter College!
 
-## I'm a Software Engineer, Film Photographer, Cat Dad, and Amateur Cook!!
-### I've worked as a Full Stack Engineer, Backend Engineer, Data Engineer, Project Manager, and Pharmacy Technician. 
+## I'm a Software Engineer, Film Photographer, Cat Dad, and Amateur Cook
+### I've worked as a Full Stack Engineer, Backend Engineer, Data Engineer, Project Manager, and Pharmacy Technician
 
 ### Here's some of the projects/technologies I've worked on:
   * [Investment Simulator App](https://github.com/tanveerm176/FICS-Compose) using Kotlin and Jetpack Compose
