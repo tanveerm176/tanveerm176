@@ -1,3 +1,19 @@
+<img align="left" alt="Film Photo" width="600px" height="300px" src="./Icons/16750010.jpg" style="padding-right:10px;" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 # Hi there, I'm Muhammad 👋 a recent CS grad from CUNY Hunter College!
 
 ## I'm a Software Engineer, Film Photographer, Cat Dad, and Amateur Cook!!
