@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad 👋 a recent CS grad from CUNY Hunter College!
 
 ## I'm a Software Engineer, Film Photographer, Cat Dad, and Amateur Cook!!
-### I've worked as a Project Manager, Full Stack Engineer, and Pharmacy Technician. I even got to work on breast cancer research during my undergrad!
+### I've worked as a Full Stack Engineer, Backend Engineer, Data Engineer, Project Manager, and Pharmacy Technician. 
 
 ### Projects in Progress:
   * Health Tracker using Kotlin Multiplatform / React
@@ -9,10 +9,11 @@
   * 3D Game using Unity and C#
 
 ### Here's some of the projects/technologies I've worked on:
-  * Investment Simulator App using Kotlin and Jetpack Compose
-  * RAG Web App with TypeScript, React, NextJS, and Pinecone for a vector db
-  * Covid Data Analysis with Tableau, Python, Numpy, and Sci-Kit Learn
-  * Deep Learning Image Classification model with TensorFlow Keras
+  * [Investment Simulator App](https://github.com/tanveerm176/FICS-Compose) using Kotlin and Jetpack Compose
+  * [RAG Web App](https://github.com/Tangeyo/SyntaxSorcerer) with TypeScript, React, NextJS, and Pinecone for a vector db
+  * [ML Covid Data Analysis](https://github.com/tanveerm176/Covid-Subway-Analysis) with Tableau, Python, Numpy, and Sci-Kit Learn
+  * [Deep Learning Image Classification model](https://github.com/tanveerm176/CNN_ImageClassification) with TensorFlow Keras
+  * [Breast Cancer Research](https://github.com/tanveerm176/CancerResearch) with Python, PyMOL, AutoDock Vina, and Marvin Sketch
 
 
 ### Feel free to connect with me:
