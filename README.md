@@ -5,16 +5,15 @@
 ### I've worked as a Full Stack Engineer, Backend Engineer, Data Engineer, Project Manager, and Pharmacy Technician
 
 ### Here's some of the projects/technologies I've worked on:
-  * [Investment Simulator App](https://github.com/tanveerm176/FICS-Compose) using Kotlin and Jetpack Compose
   * [RAG AI Assistant for Debugging Help](https://github.com/tanveerm176/Syntax-Sorcerer) with JavaScript, React, NextJS, and Pinecone for a vector db
   * [ML Covid Data Analysis](https://github.com/tanveerm176/Covid-Subway-Analysis) with Tableau, Python, Numpy, and Sci-Kit Learn
   * [Deep Learning Image Classification model](https://github.com/tanveerm176/CNN_ImageClassification) with TensorFlow Keras
+  * [Investment Simulator App](https://github.com/tanveerm176/FICS-Compose) using Kotlin and Jetpack Compose
   * [Breast Cancer Research](https://github.com/tanveerm176/CancerResearch) with Python, PyMOL, AutoDock Vina, and Marvin Sketch
 
 ### Projects in Progress:
-  * Health Tracker using Kotlin Multiplatform / React
-  * Plant App for mom to log and take care of her plants 
-  * 3D Game using Unity and C#
+  * [Local Audio Transcription App](https://github.com/tanveerm176/Audio-Transcription-App): HIPPA Compliant software to transcribe client interviews for Riseboro Community Partnership
+  * Frontend: TypeScript Electron, backend: Python faster-whisper model, CI/CD & Github Actions for deployment
 
 ### Feel free to connect with me:
 [![linkedin](./Icons/linkedin-original.svg)](https://www.linkedin.com/in/tanveerm176/)
