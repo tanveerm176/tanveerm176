@@ -12,8 +12,9 @@
   * [Breast Cancer Research](https://github.com/tanveerm176/CancerResearch) with Python, PyMOL, AutoDock Vina, and Marvin Sketch
 
 ### Projects in Progress:
-  * [Local Audio Transcription App](https://github.com/tanveerm176/Audio-Transcription-App): HIPPA Compliant software to transcribe client interviews for Riseboro Community Partnership
-  * Frontend: TypeScript Electron, backend: Python faster-whisper model, CI/CD & Github Actions for deployment
+  * [Attendance OCR App](https://github.com/tanveerm176/Attendance-OCR-App): Processes scanned attendance-sheet PDFs, extracts student names and sign-in status, compares extracted names with a roster, and exports results to Excel. Rows that need human attention can be reviewed in a window that displays the name crop and lets the operator select a roster name. Tech Stack: Tesseract OCR, OpenCV, Tkinter, fuzzymatch, pandas, numpy, Docker
+  * [Local Audio Transcription App](https://github.com/tanveerm176/Audio-Transcription-App): HIPPA Compliant software to transcribe client interviews for Riseboro Community Partnership. Frontend: TypeScript Electron, backend: Python faster-whisper model, CI/CD & Github Actions for deployment
+  
 
 ### Feel free to connect with me:
 [![linkedin](./Icons/linkedin-original.svg)](https://www.linkedin.com/in/tanveerm176/)
