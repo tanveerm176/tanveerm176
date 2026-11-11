@@ -5,6 +5,7 @@
 ### I've worked as a Full Stack Engineer, Backend Engineer, Data Engineer, Project Manager, and Pharmacy Technician
 
 ### Here's some of the projects/technologies I've worked on:
+  * [Attendance OCR App](https://github.com/tanveerm176/Attendance-OCR-App): Processes scanned attendance-sheet PDFs, extracts student names and sign-in status, compares extracted names with a roster, and exports results to Excel. Rows that need human attention can be reviewed in a window that displays the name crop and lets the operator select a roster name. Tech Stack: Tesseract OCR, OpenCV, Tkinter, fuzzymatch, pandas, numpy, Docker
   * [RAG AI Assistant for Debugging Help](https://github.com/tanveerm176/Syntax-Sorcerer) with JavaScript, React, NextJS, and Pinecone for a vector db
   * [ML Covid Data Analysis](https://github.com/tanveerm176/Covid-Subway-Analysis) with Tableau, Python, Numpy, and Sci-Kit Learn
   * [Deep Learning Image Classification model](https://github.com/tanveerm176/CNN_ImageClassification) with TensorFlow Keras
@@ -12,7 +13,6 @@
   * [Breast Cancer Research](https://github.com/tanveerm176/CancerResearch) with Python, PyMOL, AutoDock Vina, and Marvin Sketch
 
 ### Projects in Progress:
-  * [Attendance OCR App](https://github.com/tanveerm176/Attendance-OCR-App): Processes scanned attendance-sheet PDFs, extracts student names and sign-in status, compares extracted names with a roster, and exports results to Excel. Rows that need human attention can be reviewed in a window that displays the name crop and lets the operator select a roster name. Tech Stack: Tesseract OCR, OpenCV, Tkinter, fuzzymatch, pandas, numpy, Docker
   * [Local Audio Transcription App](https://github.com/tanveerm176/Audio-Transcription-App): HIPPA Compliant software to transcribe client interviews for Riseboro Community Partnership. Frontend: TypeScript Electron, backend: Python faster-whisper model, CI/CD & Github Actions for deployment
   
 
